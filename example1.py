@@ -10,3 +10,6 @@ some_string = "Hello, Universe!"
 print(stringLength.stringLength(some_string))
 print(stringToLower.stringToLower(some_string))
 print(stringToUpper.stringToUpper(some_string))
+
+
+#checking repository 30-April-2020
